@@ -1,0 +1,11 @@
+// Enter four stings which are designed to test a program which tests palindromes.
+// So you should enter a string followed by a : and a boolean value true or false indicating whether the string is a palindrome or not.
+// Each test case should be on a line of its own.
+racecar:true
+why:false
+Civic:true
+ci_vic:true
+ci vic:true
+:true
+.:true
+  :true
